@@ -1,0 +1,2 @@
+setuptools~=75.7.0
+selenium~=4.27.1
