@@ -10,7 +10,7 @@ To install `xssMan`, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/xssMan
+git clone https://github.com/AliNayyef/xssman.git
 
 # Navigate to the directory
 cd xssMan
